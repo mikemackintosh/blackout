@@ -1,0 +1,4 @@
+blackout-*64
+*.json
+*.csv
+bin/
